@@ -1,0 +1,10 @@
+//TAREAS PERDIDAS: 1. Poner monedas que se puedan pillar (animación al colisionar y desaparecer) 
+        //                                     (beneficio en contador, pero también en rojo para restar)
+        //               + 2. Enemigo/Fantasma con movimiento propio (rigidbody en Kinematic)
+        //               + 3. Animacion Ataque del personaje a los enemigos (en mago son proyectiles)
+        //               + 4. Introducir recurso de "Nubes", slice, nuevo Script "Parallax": (script hecho)
+        //              + 5. Mostrar y conectar la contabilidad de vidas (en Script GameManager)
+        
+        
+        /*  
+        */
